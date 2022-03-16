@@ -1,3 +1,5 @@
+<div align="center">
+  
 ### Hi there 👋
 
 <!--
@@ -15,4 +17,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![most](https://github-readme-stats.vercel.app/api/top-langs/?username=yeverchan&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/yeverchan)
+<br/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yeverchan&theme=dark" />
+</a>  
+<br/>
+<br/>
+<br/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeverchan&layout=compact&theme=dark" />
+</a>
+<br/>
+<br/>
+  
+## in progress
+<br/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeverchan&repo=sustainable_living_web&theme=dark" />
+</a>
+</div>
+
