@@ -32,9 +32,11 @@ Here are some ideas to get you started:
   
 ## currently ongoing project 
 <br/>
-<a href="https://github.com/yeverchan/sustainable_living_web">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeverchan&repo=sustainable_living_web&theme=dark" />
-</a>
+
 <br/>
+  <!--  done  -->
+    <!-- <a href="https://github.com/yeverchan/sustainable_living_web">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeverchan&repo=sustainable_living_web&theme=dark" />
+    </a> -->
 </div>
 
