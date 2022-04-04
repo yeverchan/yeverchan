@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   
 ## currently ongoing project 
 <br/>
-    <a href="https://github.com/web-chat-application">
+    <a href="https://github.com/yeverchan/web-chat-application">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeverchan&repo=web-chat-application&theme=dark" />
     </a>
 <br/>
