@@ -32,7 +32,9 @@ Here are some ideas to get you started:
   
 ## currently ongoing project 
 <br/>
-  
+    <a href="https://github.com/web-chat-application">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeverchan&repo=web-chat-application&theme=dark" />
+    </a>
 <br/>
   <!--  done  -->
     <!-- <a href="https://github.com/yeverchan/sustainable_living_web">
@@ -42,4 +44,6 @@ Here are some ideas to get you started:
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeverchan&repo=web_chat_stomp&theme=dark" />
     </a> -->
 </div>
+
+
 
