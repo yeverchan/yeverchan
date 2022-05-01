@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 <br/>
   
 ## currently ongoing project 
+
+  <br/>
+    <a href="https://github.com/yeverchan/movue">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeverchan&repo=movue&theme=dark" />
+    </a>
+<br/>
 <br/>
     <a href="https://github.com/yeverchan/web-chat-application">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeverchan&repo=web-chat-application&theme=dark" />
