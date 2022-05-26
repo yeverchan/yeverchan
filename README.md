@@ -32,7 +32,12 @@ Here are some ideas to get you started:
   
 ## currently ongoing project 
 
- 
+ <br/>
+    <a href="https://github.com/yeverchan/whatalk">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeverchan&repo=whatalk&theme=dark" />
+    </a>
+<br/>
+  
 </div>
 
 
